@@ -1,4 +1,4 @@
-# tesis_ingcivil
+# tesis_ingeniería_civil
 
 En este repositorio se presenta el analisis estadistico de los resultados obtenidos  
 en laboratorio para el desarroll ode la tesis: "Adición de poliestireno expandido y 
